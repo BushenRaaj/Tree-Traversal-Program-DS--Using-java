@@ -1,5 +1,4 @@
-// 1. Write a java program for the Tree Tranversal of Preorder , Inorder and
-// Postorder Tranversal.
+// 1. Write a java program for the Tree Tranversal of Preorder , Inorder and Postorder Tranversal.
 // write a program Seperately.
 
 /*
