@@ -2,7 +2,7 @@
 // write a program Seperately.
 
 /*
- * // 1.1 pre order traversal
+ * // 1.1 Preorder traversal
  * 
  * 
  * import java.util.*;
@@ -121,8 +121,7 @@
  */
 
 /*
- * // 2. Write a java program for the Tree Tranversal of Preorder , Inorder and
- * Postorder Tranversal.
+ * // 2. Write a java program for the Tree Tranversal of Preorder , Inorder and Postorder Tranversal.
  * // write a program in integrated method.
  * 
  * 
@@ -191,8 +190,7 @@
  */
 
 /*
- * // 3. Write a java program for the Tree Tranversal of Preorder , Inorder and
- * Postorder Tranversal.
+ * // 3. Write a java program for the Tree Tranversal of Preorder , Inorder and Postorder Tranversal.
  * // write a program in integrated method.
  * 
  * 
@@ -258,8 +256,7 @@
  */
 
 /*
- * // 4. Write a java program for the Tree Tranversal of Preorder , Inorder and
- * Postorder Tranversal.
+ * // 4. Write a java program for the Tree Tranversal of Preorder , Inorder and Postorder Tranversal.
  * // write a program in integrated method.
  * 
  * 
